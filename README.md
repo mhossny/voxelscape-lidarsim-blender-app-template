@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![VOXELSCAPE](https://github.com/mhossny/voxelscape-lidarsim-blender-app-template/blob/main/splash_2x.png)
 
 # VoxelScape LiDAR Simulator
 LiDAR Sensor Simulation Blender Application Template
