@@ -1,7 +1,5 @@
-# voxelscape-lidarsim-blender-addon
-LiDAR Sensor Simulation Blender Application Template
-
 # VoxelScape Lidar Simulator
+LiDAR Sensor Simulation Blender Application Template
 
 ## Requirements
 - Blender 2.90
