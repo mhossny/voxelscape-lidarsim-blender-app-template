@@ -34,5 +34,6 @@ LiDAR Sensor Simulation Blender Application Template
 	
 - For help use `-h`
 
-
+## Animation Nodes
+For more on how animation nodes work, please check the [repo](https://github.com/JacquesLucke/animation_nodes). 
 
