@@ -1,3 +1,5 @@
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 # VoxelScape LiDAR Simulator
 LiDAR Sensor Simulation Blender Application Template
 
@@ -44,4 +46,8 @@ LiDAR Sensor Simulation Blender Application Template
 
 ## Animation Nodes
 For more on how animation nodes work, please check the [repo](https://github.com/JacquesLucke/animation_nodes). 
+
+## Change Log
+- 2021/09/28: Initial Commit
+
 
